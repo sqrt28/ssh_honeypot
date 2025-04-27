@@ -28,6 +28,6 @@ Le serveur simule un environnement basique type Linux Ubuntu, avec quelques comm
 Clonez le projet :
 
 ```bash
-git clone https://github.com/tonuser/ssh_honeypot.git
+git clone https://github.com/sqrt28/ssh_honeypot.git
 cd ssh_honeypot
 docker compose build
